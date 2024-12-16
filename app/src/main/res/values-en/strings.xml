@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">PMDM_Tarea02</string>
+    <string name="mario_description">The main hero of the Mushroom Kingdom.Mario is very positive and always cheerful. You can recognize him by his blue overalls, red cap, and signature mustache.Princess Peach considers him her trusted friend, and everyone knows him and his brother Luigi for their acts of bravery.</string>
+    <string name="mario_skills">Mario uses his powerful jumping ability and a host of power-ups to take on his arch-nemesis, Bowser.</string>
+    <string name="luigi_description">Marios brother and the hero of the Mushroom Kingdom.Luigi is instantly recognizable by his green cap and shirt.Luigi is friendly, but a little nervous, especially if there are ghosts around.</string>
+    <string name="luigi_skills">Their skills match Marios, so when these brothers team up, theres nothing they can t accomplish.</string>
+    <string name="peach_description">The beloved princess of the Mushroom Kingdom.She is extremely kind and is always working to create a world where everyone can live together happily.</string>
+    <string name="peach_skills">Princess Peach is always ready to take part in a variety of sports, and she also loves baking and cooking.</string>
+    <string name="toad_description">A resident of the Mushroom Kingdom, he works in the service of Princess Peach.Toad has red markings on his head, though others of his kind come in a variety of colors.</string>
+    <string name="toad_skills">Toad is very cheerful and loyal.He does his best to help Mario and Luigi in their efforts to protect the Mushroom Kingdom from Bowser, even if it means facing danger in the process.</string>
+    <string name="bowser_description">The king of the Koopas, Bowser is Marios arch-nemesis and is always wreaking havoc on the Mushroom Kingdom.Bowser has many minions including the Koopas, Goombas, Bullet Bill, and Shy Guys.Every time he sets eyes on the Mushroom Kingdom his plans are thwarted by Mario and his friends.</string>
+    <string name="bowser_skills">
+     This powerful enemy has great strength and can even spit fire.
+    </string>
+    <string name="yoshi_description">
+     Marios trusty companion from Yoshis Island.He is green, but others of his kind come in other colors, such as red, blue, pink, and yellow.Yoshi is kind and calm.
+    </string>
+    <string name="yoshi_skills">
+     It uses its long tongue to eat fruits and enemies, which it can turn into eggs that it can throw.
+    </string>
+    <string name="daisy_description">
+      The princess of Sarasaland. Her signature style is based on her yellow dress and flowery accessories.
+    </string>
+    <string name="daisy_skills">
+     Daisy is cheerful, energetic and has a very brave heart. She enjoys playing different sports with Mario and his friends.
+    </string>
+    <string name="wario_descrption">
+     Marios self-proclaimed arch-enemy.
+    Wario wears purple overalls, a yellow cap, and has a zigzag mustache.Wario and Mario have known each other since they were babies.
+    </string>
+    <string name="wario_skills">
+     He has a loud personality and doe snt care about the little things. He loves garlic and money.
+    </string>
+    <string name="waluigi_description">
+     Warios friend and accomplice, Waluigi is Luigis self-proclaimed rival.
+        He is willing to go out of his way to defeat Mario and Luigi, even if it is just to annoy them.
+    </string>
+    <string name="waluigi_skills">
+     His long arms and legs help him stay competitive in sports.
+    </string>
+    <string name="rosalina_description">A mysterious girl who travels through the galaxy accompanied by her family of star-shaped creatures called sparkles.
+        Rosalina may seem a bit distant, but she is actually quite kind-hearted. She is the sparkles adoptive mother.
+    </string>
+    <string name="rosalina_skills">
+      Although her home is among the stars, from time to time she joins the adventures of Mario and his friends.
+    </string>
+    <string name="bowserjr_description">
+      The only son of Bowser, the king of the Koopas. Youll often see him wearing an intimidating mask with a mouth painted on it.
+He throws tantrums if things dont go his way. Hes known for being quite the troublemaker and can be a bit selfish.
+    </string>
+    <string name="bowserjr_skills">
+      Bowser Jr. is small but has inherited his fathers great strength.
+    </string>
+    <string name="boo_description">Mischievous ghosts that tend to roam dark, abandoned places.
+    These ghosts may be creepy, but they re also incredibly shy.
+    </string>
+    <string name="boo_skills">They will freeze in place and cover their eyes if anyone looks directly at them.
+    </string>
+    <string name="donkeykong_description">The king of the jungle, distinguished by a red tie with his initials.
+    He loves bananas and always keeps a large amount at home.
+    </string>
+    <string name="donkeykong_skills">Donkey Kong can throw gigantic barrels with the greatest of ease, and his strength is so great that the ground shakes every time he hits it.
+    </string>
+    <string name="diddykong_description">Donkey Kongs trusted friend and companion.
+    Youll recognize him by his red shirt with yellow stars and red cap.
+    Hell try to help Donkey Kong keep his banana stash safe.
+    </string>
+    <string name="diddykong_skills">Diddy Kong is agile and stands out for being a great jumper. He is very fast
+    </string>
+    <string name="lista_titulo">Character List</string>
+    <string name="detalles_personaje">Character Details</string>
+    <string name="about">About...</string>
+    <string name="about_description">Application developed by Francisco José Osuna Alcaide.
+        Version 1.0.</string>
+    <string name="mensajesnackbar">Welcome to Marios world</string>
+    <string name="mensajetoast">The character has been selected</string>
+    <string name="hometext">Home</string>
+    <string name="settingstext">Settings</string>
+    <string name="attachment_title">Change language</string>
+    <string name="attachment_summary_on">Spanish</string>
+    <string name="attachment_summary_off">English</string>
+</resources>

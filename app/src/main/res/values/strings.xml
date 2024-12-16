@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">PMDM_Tarea02</string>
+    <string name="mario_description">El héroe principal del Reino Champiñón. 
+        Mario es muy positivo y siempre está alegre. Lo podrás reconocer por sus overoles de color azul, su gorra roja y su característico bigote.
+        La princesa Peach lo considera su amigo de confianza, y todo el mundo los conoce a él y a su hermano Luigi por sus actos de valentía.</string>
+    <string name="mario_skills">Mario utiliza su poderosa habilidad para saltar y una gran cantidad de mejoras para enfrentarse a su archienemigo, Bowser.</string>
+    <string name="luigi_description">Hermano de Mario y héroe del Reino Champiñón.
+        Luigi es reconocido instantáneamente por su gorra y camisa de color verde.
+        Luigi es amable, pero un poco nervioso, especialmente si hay fantasmas por ahí.</string>
+    <string name="luigi_skills">sus habilidades igualan las habilidades de Mario, así que cuando estos hermanos se unen, no hay nada que no puedan lograr.</string>
+    <string name="peach_description">La querida princesa del Reino Champiñón.
+        Es extremadamente amable y siempre está trabajando para crear un mundo en el que todos puedan convivir juntos y felices.</string>
+    <string name="peach_skills">La princesa Peach siempre está lista para participar en una gran variedad de deportes, y también le encanta hornear y cocinar.</string>
+    <string name="toad_description">Residente del Reino Champiñón, trabaja al servicio de la Princesa Peach.
+        Toad tiene manchas rojas en la cabeza, aunque otros de su especie vienen en una variedad de colores.</string>
+    <string name="toad_skills">Toad es muy alegre y leal.
+        Hace todo lo posible por ayudar a Mario y a Luigi en sus esfuerzos por proteger el Reino Champiñón de Bowser, incluso si eso significa enfrentarse al peligro durante en el proceso.</string>
+    <string name="bowser_description">El rey de los Koopas. Bowser es el archienemigo de Mario y siempre está causando estragos en el Reino Champiñón.
+        Bowser cuenta con muchos secuaces que incluyen a los Koopas, Goombas, Bill Bala y Shy Guys.
+        Cada vez que le pone la mirada al Reino Champiñón sus planes se ven frustrados por Mario y sus amigos.</string>
+    <string name="bowser_skills">Este poderoso enemigo posee una gran fuerza y hasta puede escupir fuego.</string>
+    <string name="yoshi_description">El confiable compañero de Mario originario de la Isla de Yoshi.
+        Es de color verde, pero otros de su especie vienen de otros colores, como rojo, azul, rosa y amarillo.
+        Yoshi es amable y tranquilo.</string>
+    <string name="yoshi_skills">Utiliza su larga lengua para comerse las frutas y a los enemigos, los cuales puede convertir en huevos que podrá arrojar.</string>
+    <string name="daisy_description">La princesa de Sarasaland. Su característico estilo se basa en su vestido de color amarillo y sus floreados accesorios.</string>
+    <string name="daisy_skills">Daisy es alegre, enérgica y con un corazón muy valiente. Disfruta de jugar diferentes deportes con Mario y sus amigos.</string>
+    <string name="wario_descrption">El autoproclamado archienemigo de Mario.
+        Wario viste un overol color morado, una gorra amarilla y tiene un bigote en zigzag.
+        Wario y Mario se conocen desde que eran bebés. </string>
+    <string name="wario_skills">Posee una personalidad escandalosa y no se preocupa por las pequeñas cosas. Le encanta el ajo y dinero.</string>
+    <string name="waluigi_description">Amigo y cómplice de Wario. Waluigi es el autoproclamado rival de Luigi.
+        Está dispuesto a esforzarse para derrotar a Mario y a Luigi, aunque solo sea para molestarlos.</string>
+    <string name="waluigi_skills">Sus largos brazos y piernas lo ayudan a mantenerse competitivo en los deportes.</string>
+    <string name="rosalina_description">Una misteriosa chica que viaja a través de la galaxia acompañada de su familia de criaturas con forma de estrella llamadas destellos.
+        Rosalina puede parecer un poco distante, pero en realidad es bastante bondadosa. Es la madre adoptiva de los destellos.</string>
+    <string name="rosalina_skills">Aunque su hogar está entre las estrellas, de vez en cuando se une a las aventuras de Mario y sus amigos.</string>
+    <string name="bowserjr_description">Hijo único de Bowser, el rey de los Koopas. A menudo lo verás usando una intimidante máscara con una boca pintada en ella.
+        Se coge pataletas si las cosas no salen como él quiere. Es conocido por ser muy problemático y puede ser un poco egoísta.</string>
+    <string name="bowserjr_skills">Bowser Jr. es pequeño pero ha heredado la gran fuerza de su padre.</string>
+    <string name="boo_description">Unos traviesos fantasmas que suelen deambular en lugares oscuros y abandonados.
+        Puede que estos fantasmas sean espeluznantes, pero también son increíblemente tímidos.</string>
+    <string name="boo_skills">Se congelarán en su lugar y se cubrirán los ojos si alguien los mira directamente.</string>
+    <string name="donkeykong_description">El rey de la jungla, se distingue por una corbata roja con sus iniciales.
+        Le encantan los plátanos y siempre guarda con una gran cantidad en su hogar.</string>
+    <string name="donkeykong_skills">Donkey Kong puede lanzar gigantescos barriles con la mayor facilidad, y su fuerza es tan grande que el suelo tiembla cada vez que lo golpea.</string>
+    <string name="diddykong_description">El amigo y compañero de confianza de Donkey Kong.
+        Lo reconocerás por su camiseta roja con estrellas amarillas y gorra roja.
+        Intentará ayudar a Donkey Kong a mantener su reserva de plátanos a salvo.</string>
+    <string name="diddykong_skills">Diddy Kong es ágil y se destaca por ser un gran saltador. Es muy veloz</string>
+    <string name="lista_titulo">Lista de Personajes</string>
+    <string name="detalles_personaje">Detalles del Personaje</string>
+    <string name="about">Acerca De...</string>
+    <string name="about_description">Aplicación desarrollada por Francisco José Osuna Alcaide.
+    Versión 1.0.</string>
+    <string name="mensajesnackbar">Bienvenidos al mundo de Mario</string>
+    <string name="mensajetoast">Se ha seleccionado el personaje</string>
+    <string name="hometext">Inicio</string>
+    <string name="settingstext">Ajustes</string>
+    <string name="attachment_title">Cambiar idioma</string>
+    <string name="attachment_summary_on">Español</string>
+    <string name="attachment_summary_off">Inglés</string>
+</resources>

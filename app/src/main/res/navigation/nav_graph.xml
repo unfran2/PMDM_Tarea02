@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listaFragment">
+
+    <fragment
+        android:id="@+id/listaFragment"
+        android:name="com.example.pmdm_tarea02.ListaFragment"
+        android:label="fragment_lista"
+        tools:layout="@layout/fragment_lista" >
+        <action
+            android:id="@+id/action_listaFragment_to_detallesPersonaje"
+            app:destination="@id/detallesPersonaje" />
+        <argument
+            android:name="imagen"
+            app:argType="integer"/>
+        <argument
+            android:name="nombre"
+            app:argType="string"/>
+        <argument
+            android:name="descripcion"
+            app:argType="integer"/>
+        <argument
+            android:name="habilidades"
+            app:argType="integer"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/detallesPersonaje"
+        android:name="com.example.pmdm_tarea02.DetallesPersonaje"
+        android:label="fragment_detalles_personaje"
+        tools:layout="@layout/fragment_detalles_personaje" />
+
+    <activity
+        android:id="@+id/splashActivity"
+        android:name="com.example.pmdm_tarea02.SplashActivity"
+        android:label="SplashActivity" />
+
+
+</navigation>
